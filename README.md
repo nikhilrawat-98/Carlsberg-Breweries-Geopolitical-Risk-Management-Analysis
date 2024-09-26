@@ -38,7 +38,6 @@ This project evaluates the geopolitical and economic risks faced by Carlsberg Br
 ## File Structure
 
 - **`Carlsberg-Risk Analysis.pdf`**: The main report discussing the geopolitical risks, proposed strategies, and detailed analysis of Carlsberg Breweries' situation.
-- **`requirements.txt`**: Not applicable for this project as the analysis is qualitative.
 
 ## Strategic Insights
 
